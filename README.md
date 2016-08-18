@@ -49,7 +49,7 @@ dim(yvelo) <- c(nrow(yvelo), 3, repetitions, participants, experiments)
 The five-dimensional array `y` will contain all the data. The indexing `y[, c, j, p, e]` will give sequence of *c*-coordinate positions (1: x-coordinate, 2: y-coordinate, 3: z-coordinate) of the hand of participant *p*'s *j*th repetion of experimental setup *e*. `e=16` denotes the control experiment with no obstacle, the numbering of experimental setups with obstacle is given in the table below. 
 
 | placement\obstacle height | S | M | T |
-|-|-|-|-|
+|---|---|---|---|
 | 15.0 cm | 1 | 2 | 3 |
 | 22.5 cm | 4 | 5 | 6 |
 | 30.0 cm | 7 | 8 | 9 |
@@ -57,4 +57,5 @@ The five-dimensional array `y` will contain all the data. The indexing `y[, c, j
 | 35.0 cm | 13 | 14 | 15 |
 
 
+To analyze this data we recommend the [pavpop](https://github.com/larslau/pavpop) R package. 
 
