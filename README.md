@@ -20,7 +20,7 @@ obstacles of varying heights and positions were placed. The
 participants were instructed to avoid the obstacles by lifting the cylindric object over them. Below are illustrations of the setup and trajectories for three of the 16 experimental setups included in the data. 
 
 | Medium obstacle 15 cm from start | Tall obstacle 30 cm from start | No obstacle |
-|-|-|-|
+|---|---|---|
 | <img src="http://i.imgur.com/UpQmWvu.png" width="300"> | <img src="http://i.imgur.com/10E0Pja.png" width="300"> | <img src="http://i.imgur.com/uRTzwLW.png" width="300"> |
 |                                                        |
 
