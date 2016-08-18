@@ -41,9 +41,6 @@ experiments <- 16
 
 y <- as.matrix(read.table('armTrajectories.dat'))
 dim(y) <- c(nrow(y), 3, repetitions, participants, experiments)
-
-yvelo <- as.matrix(read.table('armVelocity.dat'))
-dim(yvelo) <- c(nrow(yvelo), 3, repetitions, participants, experiments)
 ```
 
 The five-dimensional array `y` will contain all the data. The indexing `y[, c, j, p, e]` will give sequence of *c*-coordinate positions (1: x-coordinate, 2: y-coordinate, 3: z-coordinate) of the hand of participant *p*'s *j*th repetion of experimental setup *e*. `e=16` denotes the control experiment with no obstacle, the numbering of experimental setups with obstacle is given in the table below. 
