@@ -28,7 +28,7 @@ participants were instructed to avoid the obstacles by lifting the cylindric obj
 The movements were recorded with the Visualeyez (Phoenix Technologies Inc.) motion capture system VZ 4000. A wireless infrared light-emitting diode (IRED) was attached to the object. The trajectories of markers were recorded in three Cartesian dimensions at a sampling rate of 110 Hz based on a reference frame anchored on the table. The starting position projected to the table was taken as the origin of each trajectory in three-dimensional Cartesian space. 
 
 
-Fifteen obstacle avoidance tasks were performed (one for every combination of obstacle height *Small* (20 cm), *Medium* (27.5 cm), or *Tall* (35 cm) and obstacle distance from starting position  $d\in \{15, 22.5, 30, 37.5, 45\}$) as well as a control experiment with no obstacle. The participants repeated each task ten times, giving $n=100$ functional samples per experiment, and a total of $n_f =1600$ functional samples in the dataset, with a total data size of $m_{f}=174,160$ three-dimensional observation points.
+Fifteen obstacle avoidance tasks were performed (one for every combination of obstacle height *Small* (20 cm), *Medium* (27.5 cm), or *Tall* (35 cm) and obstacle distance from starting position *d* in {15, 22.5, 30, 37.5, 45}) as well as a control experiment with no obstacle. The participants repeated each task ten times, giving *n*=100 functional samples per experiment, and a total of 1600 functional samples in the dataset, with a total data size of 174,160 three-dimensional observation points.
 
 ## Loading the data into R
 
