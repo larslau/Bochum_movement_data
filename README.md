@@ -6,8 +6,8 @@ B. Grimme, *Analysis and identification of elementary invariants as building blo
 
 For previous analyses of this data set and a number of related experimental setups, please refer to
 
-L.L. Raket, B. Grimme, G. Schöner, C. Igel, and B. Markussen, "Separating timing, movement conditions and individual differences in the analysis of human movement
-," *PLOS Computational Biology*, (accepted).
+[L.L. Raket, B. Grimme, G. Schöner, C. Igel, and B. Markussen, "Separating timing, movement conditions and individual differences in the analysis of human movement
+," *PLOS Computational Biology*, 2016.](http://dx.doi.org/10.1371/journal.pcbi.1005092)
 
 B. Grimme, J. Lipinski, and G. Schöner, "Naturalistic arm movements during obstacleavoidance in 3D and the identification of movement primitives," *Experimental BrainResearch*. vol. 222(3), pp. 185–200, 2012.
 
